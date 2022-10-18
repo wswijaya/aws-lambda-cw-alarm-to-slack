@@ -1,4 +1,4 @@
-# py-cloudwatch-alarm-to-slack
+# aws-lambda-cw-alarm-to-slack
 Lambda code to send CloudWatch Alarms to Slack 
 
 
